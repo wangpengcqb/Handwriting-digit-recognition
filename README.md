@@ -1,2 +1,3 @@
 # Handwriting-digit-recognition-
-Handwriting digit recognition by neural network
+
+Implement the backpropagation algorithm for neural networks and apply it to the hand-written digit recognition
